@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/tmR8B04/kindpng-7318921.png",
+        "review": "George Orwell's 1984 is a chilling portrayal of a dystopian society where individuality is crushed by totalitarian rule. With its themes of surveillance, propaganda, and thought control, this timeless classic serves as a stark warning against the dangers of unchecked government power. A must-read for all.",
+        "totalPages": 328,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": [
+            "Dystopian",
+            "Political",
+            "Classic"
+        ],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "id": 2,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co/bHMwgL2/kindpng-81724-1.png",
+        "review": "Harper Lee's To Kill a Mockingbird is a poignant exploration of racial injustice and moral growth in 1930s America. Through the eyes of young Scout Finch, Lee tackles themes of prejudice, empathy, and the loss of innocence. A timeless masterpiece that resonates with readers of all ages.",
+        "totalPages": 336,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Legal",
+            "Coming-of-age"
+        ],
+        "publisher": "J.B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "id": 3,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co/hm8QLmk/kindpng-5624060-1.png",
+        "review": "J.D. Salinger's The Catcher in the Rye is a timeless portrayal of teenage angst and rebellion. Through the eyes of Holden Caulfield, Salinger captures the complexities of adolescence, alienation, and the search for authenticity. A provocative and thought-provoking novel that continues to resonate with readers worldwide.",
+        "totalPages": 224,
+        "rating": 4.3,
+        "category": "Fiction",
+        "tags": [
+            "Coming-of-age",
+            "Contemporary",
+            "Literary"
+        ],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "id": 4,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co/LJSp0Fq/kindpng-4945926-1.png",
+        "review": "F. Scott Fitzgerald's The Great Gatsby is a tragic tale of love, wealth, and the American Dream. Set in the opulent Jazz Age, Fitzgerald's novel delves into the lives of the wealthy elite, exposing the emptiness beneath their glamorous facade. A timeless classic that explores the dark underbelly of success.",
+        "totalPages": 180,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Romance",
+            "Jazz Age"
+        ],
+        "publisher": "Charles Scribner's Sons",
+        "yearOfPublishing": 1925
+    },
+    {
+        "id": 5,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://i.ibb.co/S5Qw050/pngwing-1.png",
+        "review": "Jane Austen's Pride and Prejudice is a delightful comedy of manners with memorable characters and sparkling wit. Set in the Regency era, Austen's novel follows the tumultuous relationship between Elizabeth Bennet and Mr. Darcy, offering a charming portrayal of love, class, and societal expectations. A timeless classic.",
+        "totalPages": 279,
+        "rating": 4.7,
+        "category": "Fiction",
+        "tags": [
+            "Romance",
+            "Classic",
+            "Regency"
+        ],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "id": 6,
+        "bookName": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "image": "https://i.ibb.co/tmR8B04/kindpng-7318921.png",
+        "review": "J.R.R. Tolkien's The Hobbit is an enchanting adventure filled with magic, friendship, and bravery. Follow Bilbo Baggins as he embarks on an epic quest to reclaim the lost Dwarf Kingdom of Erebor from the fearsome dragon Smaug. A timeless classic that transports readers to the wondrous world of Middle-earth.",
+        "totalPages": 310,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": [
+            "Adventure",
+            "Middle-earth",
+            "Quest"
+        ],
+        "publisher": "Allen & Unwin",
+        "yearOfPublishing": 1937
+    }
+]

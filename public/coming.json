@@ -1,0 +1,206 @@
+[
+    {
+        "id": 1,
+        "bookName": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "author": "Robert C. Martin",
+        "image": "https://i.ibb.co/brh3VYP/ehud-neuhaus-es-Cc1qx6-TVw-unsplash.jpg",
+        "review": "An essential read for any programmer striving to write better, more maintainable code.",
+        "totalPages": 464,
+        "rating": 4.7,
+        "category": "Programming",
+        "tags": [
+            "Software Development",
+            "Agile",
+            "Best Practices"
+        ],
+        "publisher": "Prentice Hall",
+        "yearOfPublishing": 2008
+    },
+    {
+        "id": 2,
+        "bookName": "Code Complete: A Practical Handbook of Software Construction",
+        "author": "Steve McConnell",
+        "image": "https://i.ibb.co/zrbj2f4/altumcode-XMFZqr-Gy-V-Q-unsplash.jpg",
+        "review": "A comprehensive guide to software construction practices, filled with practical advice.",
+        "totalPages": 960,
+        "rating": 4.6,
+        "category": "Programming",
+        "tags": [
+            "Software Engineering",
+            "Development Practices",
+            "Coding Standards"
+        ],
+        "publisher": "Microsoft Press",
+        "yearOfPublishing": 2004
+    },
+    {
+        "id": 3,
+        "bookName": "The Pragmatic Programmer: Your Journey to Mastery",
+        "author": "Andrew Hunt, David Thomas",
+        "image": "https://i.ibb.co/yYNKgKR/luis-lopes-m-GFflv-Kuek-Q-unsplash.jpg",
+        "review": "Packed with practical tips and timeless advice, a must-read for any programmer.",
+        "totalPages": 352,
+        "rating": 4.5,
+        "category": "Programming",
+        "tags": [
+            "Software Development",
+            "Pragmatism",
+            "Professionalism"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "yearOfPublishing": 1999
+    },
+    {
+        "id": 4,
+        "bookName": "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+        "image": "https://i.ibb.co/DMBDvGb/thomas-kolnowski-gqs-Y28obv-H8-unsplash.jpg",
+        "review": "A classic book on software design patterns, essential for any serious developer.",
+        "totalPages": 416,
+        "rating": 4.8,
+        "category": "Programming",
+        "tags": [
+            "Design Patterns",
+            "Object-Oriented Programming",
+            "Software Architecture"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "yearOfPublishing": 1994
+    },
+    {
+        "id": 5,
+        "bookName": "Refactoring: Improving the Design of Existing Code",
+        "author": "Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts",
+        "image": "https://i.ibb.co/y5yFNwL/nangialai-stoman-1-Lt1ny9n-GWY-unsplash.jpg",
+        "review": "A comprehensive guide to improving code quality through refactoring techniques.",
+        "totalPages": 464,
+        "rating": 4.6,
+        "category": "Programming",
+        "tags": [
+            "Refactoring",
+            "Code Quality",
+            "Software Maintenance"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "yearOfPublishing": 1999
+    },
+    {
+        "id": 6,
+        "bookName": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+        "image": "https://i.ibb.co/LQ8q48Y/roberta-errani-kn-TUUJ8i-P2-U-unsplash.jpg",
+        "review": "A fundamental text on algorithms, extensively used in computer science education.",
+        "totalPages": 1312,
+        "rating": 4.7,
+        "category": "Programming",
+        "tags": [
+            "Algorithms",
+            "Data Structures",
+            "Computer Science"
+        ],
+        "publisher": "The MIT Press",
+        "yearOfPublishing": 2009
+    },
+    {
+        "id": 7,
+        "bookName": "The Mythical Man-Month: Essays on Software Engineering",
+        "author": "Frederick P. Brooks Jr.",
+        "image": "https://i.ibb.co/KjYqTBN/taylor-heery-LNk-Pw-NVAdm-A-unsplash.jpg",
+        "review": "Insightful essays on software engineering and project management, still relevant today.",
+        "totalPages": 336,
+        "rating": 4.5,
+        "category": "Programming",
+        "tags": [
+            "Software Engineering",
+            "Project Management",
+            "Productivity"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "yearOfPublishing": 1975
+    },
+    {
+        "id": 8,
+        "bookName": "Programming Pearls",
+        "author": "Jon Bentley",
+        "image": "https://i.ibb.co/C9HTppD/matt-ridley-H-LIL57-PHCc-unsplash.jpg",
+        "review": "A collection of essays on programming and problem-solving, filled with valuable insights.",
+        "totalPages": 256,
+        "rating": 4.4,
+        "category": "Programming",
+        "tags": [
+            "Problem Solving",
+            "Algorithms",
+            "Programming Techniques"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "yearOfPublishing": 1986
+    },
+    {
+        "id": 9,
+        "bookName": "Code: The Hidden Language of Computer Hardware and Software",
+        "author": "Charles Petzold",
+        "image": "https://i.ibb.co/M6HQjnf/annie-spratt-9v-MBjr-U-RA-unsplash.jpg",
+        "review": "A fascinating journey through the inner workings of computers, a must-read for enthusiasts.",
+        "totalPages": 400,
+        "rating": 4.6,
+        "category": "Programming",
+        "tags": [
+            "Computer Science",
+            "Computer Architecture",
+            "Hardware"
+        ],
+        "publisher": "Microsoft Press",
+        "yearOfPublishing": 1999
+    },
+    {
+        "id": 10,
+        "bookName": "The Art of Computer Programming",
+        "author": "Donald E. Knuth",
+        "image": "https://i.ibb.co/brh3VYP/ehud-neuhaus-es-Cc1qx6-TVw-unsplash.jpg",
+        "review": "A monumental work that dives deep into the mathematical and algorithmic foundations of computing.",
+        "totalPages": 3168,
+        "rating": 4.9,
+        "category": "Programming",
+        "tags": [
+            "Algorithms",
+            "Computer Science",
+            "Mathematics"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "yearOfPublishing": 1968
+    },
+    {
+        "id": 11,
+        "bookName": "Effective Java",
+        "author": "Joshua Bloch",
+        "image": "https://i.ibb.co/zrbj2f4/altumcode-XMFZqr-Gy-V-Q-unsplash.jpg",
+        "review": "A must-read for Java developers, offering insightful tips and best practices.",
+        "totalPages": 416,
+        "rating": 4.8,
+        "category": "Programming",
+        "tags": [
+            "Java",
+            "Best Practices",
+            "Programming Languages"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "yearOfPublishing": 2001
+    },
+    {
+        "id": 12,
+        "bookName": "Head First Design Patterns",
+        "author": "Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra",
+        "image": "https://i.ibb.co/yYNKgKR/luis-lopes-m-GFflv-Kuek-Q-unsplash.jpg",
+        "review": "A beginner-friendly introduction to design patterns, presented in a highly engaging format.",
+        "totalPages": 694,
+        "rating": 4.7,
+        "category": "Programming",
+        "tags": [
+            "Design Patterns",
+            "Object-Oriented Design",
+            "Learning"
+        ],
+        "publisher": "O'Reilly Media",
+        "yearOfPublishing": 2004
+    }
+]
